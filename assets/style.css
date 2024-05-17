@@ -1,0 +1,39 @@
+.notification-icon,
+.user-icon {
+    font-size: 30px;
+    margin-top: 26px;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.jobs-link {
+    transition: background-color 0.3s;
+}
+
+.jobs-link.active {
+    background-color: #D9D9D9;
+}
+
+.nav-link.active {
+    background-color: #D9D9D9;
+}
+
+.sidebar-link {
+    cursor: pointer;
+}
+
+.nav-item .collapse {
+    margin-left: 20px;
+}
+
+.ml-2,
+.mx-2 {
+    margin-left: 1.5rem !important;
+}
+
+.mr-2,
+.mx-2 {
+    margin-right: 1.5rem !important;
+}
